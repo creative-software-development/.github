@@ -19,3 +19,9 @@ O sistema consiste em uma aplicação onde hotéis podem se cadastrar no sistema
 - Maven
 - Angular
 - MySQL Workbench
+
+### Repositórios
+
+- [Docs & Wiki](https://github.com/hotel-booking-system/docs-wiki/wiki)
+- [Backend](https://github.com/hotel-booking-system/backend)
+- [Frontend]()
