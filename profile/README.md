@@ -22,6 +22,7 @@ O sistema consiste em uma aplicação onde hotéis podem se cadastrar no sistema
 
 ### Repositórios
 
+- [Projects](https://github.com/orgs/hotel-booking-system/projects/1)
 - [Docs & Wiki](https://github.com/hotel-booking-system/docs-wiki/wiki)
 - [Backend](https://github.com/hotel-booking-system/backend)
-- [Frontend]()
+- [Frontend](https://github.com/hotel-booking-system/frontend)
